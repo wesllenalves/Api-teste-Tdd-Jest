@@ -1,6 +1,7 @@
 const { User } = require('../../src/app/models');
 
 describe('Authentication', () => {
+    
     it('create user', async () => {
      const user =   await User.create({
             name: 'wesllen alves de sousa',
