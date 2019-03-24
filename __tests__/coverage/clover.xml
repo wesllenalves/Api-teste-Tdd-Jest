@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1553269107917" clover="3.2.0">
-  <project timestamp="1553269107918" name="All files">
+<coverage generated="1553389104121" clover="3.2.0">
+  <project timestamp="1553389104122" name="All files">
     <metrics statements="44" coveredstatements="38" conditionals="15" coveredconditionals="9" methods="11" coveredmethods="9" elements="70" coveredelements="56" complexity="0" loc="44" ncloc="44" packages="5" files="8" classes="8"/>
     <package name="src">
       <metrics statements="14" coveredstatements="12" conditionals="4" coveredconditionals="1" methods="3" coveredmethods="3"/>
-      <file name="app.js" path="C:\Users\laboratorio\Desktop\Api Tdd\src\app.js">
+      <file name="app.js" path="C:\Users\wesllen\Desktop\Api-teste-Tdd-Jest\src\app.js">
         <metrics statements="8" coveredstatements="8" conditionals="2" coveredconditionals="1" methods="3" coveredmethods="3"/>
         <line num="1" count="1" type="stmt"/>
         <line num="5" count="1" type="stmt"/>
@@ -15,14 +15,14 @@
         <line num="19" count="1" type="stmt"/>
         <line num="22" count="1" type="stmt"/>
       </file>
-      <file name="routes.js" path="C:\Users\laboratorio\Desktop\Api Tdd\src\routes.js">
+      <file name="routes.js" path="C:\Users\wesllen\Desktop\Api-teste-Tdd-Jest\src\routes.js">
         <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
         <line num="4" count="1" type="stmt"/>
         <line num="6" count="1" type="stmt"/>
       </file>
-      <file name="serve.js" path="C:\Users\laboratorio\Desktop\Api Tdd\src\serve.js">
+      <file name="serve.js" path="C:\Users\wesllen\Desktop\Api-teste-Tdd-Jest\src\serve.js">
         <metrics statements="2" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="0" coveredmethods="0"/>
         <line num="1" count="0" type="stmt"/>
         <line num="3" count="0" type="cond" truecount="0" falsecount="2"/>
@@ -30,7 +30,7 @@
     </package>
     <package name="src.app.controllers">
       <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-      <file name="SessionController.js" path="C:\Users\laboratorio\Desktop\Api Tdd\src\app\controllers\SessionController.js">
+      <file name="SessionController.js" path="C:\Users\wesllen\Desktop\Api-teste-Tdd-Jest\src\app\controllers\SessionController.js">
         <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
         <line num="3" count="1" type="stmt"/>
         <line num="7" count="1" type="stmt"/>
@@ -38,7 +38,7 @@
     </package>
     <package name="src.app.models">
       <metrics statements="23" coveredstatements="22" conditionals="7" coveredconditionals="6" methods="5" coveredmethods="5"/>
-      <file name="User.js" path="C:\Users\laboratorio\Desktop\Api Tdd\src\app\models\User.js">
+      <file name="User.js" path="C:\Users\wesllen\Desktop\Api-teste-Tdd-Jest\src\app\models\User.js">
         <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
         <line num="1" count="2" type="stmt"/>
         <line num="3" count="2" type="stmt"/>
@@ -47,7 +47,7 @@
         <line num="13" count="1" type="stmt"/>
         <line num="19" count="2" type="stmt"/>
       </file>
-      <file name="index.js" path="C:\Users\laboratorio\Desktop\Api Tdd\src\app\models\index.js">
+      <file name="index.js" path="C:\Users\wesllen\Desktop\Api-teste-Tdd-Jest\src\app\models\index.js">
         <metrics statements="17" coveredstatements="16" conditionals="5" coveredconditionals="4" methods="3" coveredmethods="3"/>
         <line num="3" count="2" type="stmt"/>
         <line num="4" count="2" type="stmt"/>
@@ -70,7 +70,7 @@
     </package>
     <package name="src.config">
       <metrics statements="2" coveredstatements="2" conditionals="4" coveredconditionals="2" methods="0" coveredmethods="0"/>
-      <file name="database.js" path="C:\Users\laboratorio\Desktop\Api Tdd\src\config\database.js">
+      <file name="database.js" path="C:\Users\wesllen\Desktop\Api-teste-Tdd-Jest\src\config\database.js">
         <metrics statements="2" coveredstatements="2" conditionals="4" coveredconditionals="2" methods="0" coveredmethods="0"/>
         <line num="1" count="2" type="stmt"/>
         <line num="5" count="2" type="stmt"/>
@@ -78,7 +78,7 @@
     </package>
     <package name="src.database.migrations">
       <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
-      <file name="20190320144241-create-users.js" path="C:\Users\laboratorio\Desktop\Api Tdd\src\database\migrations\20190320144241-create-users.js">
+      <file name="20190320144241-create-users.js" path="C:\Users\wesllen\Desktop\Api-teste-Tdd-Jest\src\database\migrations\20190320144241-create-users.js">
         <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
         <line num="3" count="0" type="stmt"/>
         <line num="5" count="0" type="stmt"/>
